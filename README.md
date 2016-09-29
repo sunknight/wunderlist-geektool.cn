@@ -1,7 +1,16 @@
 # Wunderlist Geektool
 
+## 说明
+基于 https://github.com/czerwonkabartosz/wunderlist-geektool 创建（20160929）
+修改以下内容：
+1. 中文化
+2. 由于奇妙清单api的排序接口存在问题，去掉排序功能。
+3. 显示更新时间
+
 Very simple [GeekTool](http://www.tynsoe.org/v2/geektool/) script written in Node JS to display tasks from [Wunderlist](https://www.wunderlist.com/).
 Created without additional dependencies for easier be used.
+
+
 
 ![](https://github.com/czerwonkabartosz/wunderlist-geektool/blob/master/screenshots/details.png?raw=true)
 

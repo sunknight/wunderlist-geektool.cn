@@ -1,7 +1,7 @@
 # Wunderlist Geektool
 
 
-说明
+##说明
 基于 https://github.com/czerwonkabartosz/wunderlist-geektool 创建（20160929）
 
 修改以下内容：
